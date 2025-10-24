@@ -1,0 +1,41 @@
+Folder PATH listing for volume Disk
+Volume serial number is A612-5EE5
+D:.
+|   .replit
+|   app.py
+|   earthquake_service.py
+|   main.py
+|   models.py
+|   prediction_service.py
+|   pyproject.toml
+|   ReadMe.md
+|   routes.py
+|   structure.txt
+|   uv.lock
+|   
++---attached_assets
+|       Pasted-Project-Title-QuakeSense-Global-Earthquake-Tracking-and-Prediction-System-Project-Description--1756898924000_1756898924001.txt
+|       
++---instance
+|       earthquakes.db
+|       
++---static
+|   +---css
+|   |       style.css
+|   |       
+|   \---js
+|           admin.js
+|           map.js
+|           
++---templates
+|       admin.html
+|       base.html
+|       index.html
+|       
+\---__pycache__
+        app.cpython-310.pyc
+        earthquake_service.cpython-310.pyc
+        models.cpython-310.pyc
+        prediction_service.cpython-310.pyc
+        routes.cpython-310.pyc
+        
